@@ -1,6 +1,6 @@
 # Logger_handler
 
-## Function to create zip file from log in diffrent folders
+## Function to create zip file from logs
 
 ```
 create_zip(path:str, folder:str, filesNumber:str)
