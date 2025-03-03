@@ -3,7 +3,7 @@
 ## Function to create zip file from log in diffrent folders
 
 ```
-create_zip(path:str, folder:str, filesNumber:str):
+create_zip(path:str, folder:str, filesNumber:str)
 
 ```
 path = path to folder. ex. logger_files
